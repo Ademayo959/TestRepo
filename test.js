@@ -1,0 +1,3 @@
+console.log("Hello Github")
+var name = "Oluwamayowa"
+console.log(`My name is ${name}`)
